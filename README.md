@@ -1,2 +1,2 @@
 # foodiez
-This is online food ordering and delivery management system.
+This is an online food ordering and delivery management system.
